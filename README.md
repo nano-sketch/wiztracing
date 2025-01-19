@@ -1,2 +1,2 @@
 # wiztracing
-ray tracing concept in c
+ray tracing concept in c(minimal)
